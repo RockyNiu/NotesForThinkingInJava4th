@@ -30,6 +30,6 @@ Here is my plan: 50 pages a day, finish it in one month.
     <td>02</td>
     <td>93 - 154</td>
     <td>*</td>
-    <td>**boolean** is special. **switch** is updated in Java7</td>
+    <td>*boolean* is special. *switch* is updated in Java7</td>
   </tr>
 </table>
