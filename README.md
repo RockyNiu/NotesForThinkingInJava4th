@@ -5,8 +5,19 @@ Not every Java Developer, especially who is switching or switched from other fie
 
 Here is my plan: 50 pages a day, finish it in one month.
 
-Day | Pages | Hard | Notes
-00 | 0 - 60 | ** | skip jsp and applet
+<table>
+  <tr>
+    <th>Day</th>
+    <th>Pages</th>
+    <th>Hard</th>
+    <th>Notes</th>
+  </tr>
+    <tr>
+    <td>00</td>
+    <td>0 - 60</td>
+    <td>**</td>
+    <td>skip jsp and applet</td>
+  </tr>
 01 | 61 - 92 | ** | passing object reference by value. practically skip "static import" ?
 02 | 93 - 154 | * | boolean is special. switch updated in Java7
-
+</table>
