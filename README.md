@@ -38,10 +38,8 @@ Here is my plan: 25 pages a day(around 2~3 hours) , finish it in two months.
     <td>03</td>
     <td>155 - 208</td>
     <td>***</td>
-    <td>
-      <td>initialization and creation: 从类的初始化和对象的创建步骤，可以知道，一个类是先初始化static的变量和static句块，然后在分配该类以及父类的成员变量的内存空间，赋予默认值，然后开始调用构造函数。而子类和父类之间，则先初始化和创建父类，然后在初始化和创建子类的。
-      </td>
-      <td>garbage collection
+    <td>initialization and creation: 从类的初始化和对象的创建步骤，可以知道，一个类是先初始化static的变量和static句块，然后在分配该类以及父类的成员变量的内存空间，赋予默认值，然后开始调用构造函数。而子类和父类之间，则先初始化和创建父类，然后在初始化和创建子类的。
+      garbage collection
       </td>
     </td>
   </tr>
