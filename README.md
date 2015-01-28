@@ -9,7 +9,7 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
   <tr>
     <th>Day</th>
     <th>Pages</th>
-    <th>Hard</th>
+    <th>Difficulty</th>
     <th>Notes</th>
   </tr>
   <tr>
