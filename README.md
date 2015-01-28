@@ -3,7 +3,7 @@ Notes for Thinking In Java(4th) by Bruce Eckel
 
 Not every Java Developer, especially who is switching or switched from other fields/professions, have read the book Thinking In Java words by words. However, I bet, the best ones do.
 
-Here is my plan: 25 pages a day(around 2~3 hours) , finish it in two months.
+Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
 
 <table>
   <tr>
@@ -41,9 +41,9 @@ Here is my plan: 25 pages a day(around 2~3 hours) , finish it in two months.
   </tr>
   <tr>
     <td>04</td>
-    <td>182 - 208</td>
+    <td>182 - 236</td>
     <td>***</td>
-    <td>
+    <td>public, protected, (default), private
     </td>
   </tr>
 </table>
