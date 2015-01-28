@@ -42,7 +42,7 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     <td>182 - 236</td>
     <td>***</td>
     <td>initialization and creation:  一个类是先初始化static的变量和static句块，
-    然后在分配该类以及父类的成员变量的内存空间，赋予默认值，然后开始调用构造函数。
+    然后再分配该类以及父类的成员变量的内存空间，赋予默认值，然后开始调用构造函数。
     而子类和父类之间，则先初始化和创建父类，然后再初始化和创建子类的。
     access control: 
     public, protected, (default), private
