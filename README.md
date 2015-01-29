@@ -53,6 +53,15 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     <td>237 - 276</td>
     <td></td>
     <td>subclasses do not inherit private fields.
+    is-a: inheritance, has-a: composition.
+    final: fields, arguments, methods, classes.
+    </td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>277 - 310</td>
+    <td></td>
+    <td>
     </td>
   </tr>
 </table>
