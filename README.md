@@ -60,6 +60,14 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
   <tr>
     <td>06</td>
     <td>277 - 310</td>
+    <td>**</td>
+    <td>
+    reference counting: good for mobile app to show synchronization icon
+    </td>
+  </tr>
+    <tr>
+    <td>06</td>
+    <td>311 - 344</td>
     <td></td>
     <td>
     </td>
