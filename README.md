@@ -60,13 +60,15 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
   <tr>
     <td>06</td>
     <td>277 - 310</td>
-    <td>**</td>
+    <td>***</td>
     <td>
-    reference counting: good for mobile app to show synchronization icon
+    reference counting: good for mobile app to show synchronization icon. 
+    the only safe methods to call inside a constructor are thoes that are final in the base class.
+    composition first: use inheritance to express differences in behavior, and fields to express variations in state.
     </td>
   </tr>
     <tr>
-    <td>06</td>
+    <td>07</td>
     <td>311 - 344</td>
     <td></td>
     <td>
