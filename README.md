@@ -67,9 +67,18 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     Composition first: use inheritance to express differences in behavior, and fields to express variations in state.
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>07</td>
     <td>311 - 344</td>
+    <td>**</td>
+    <td>Strategy Pattern/Factory Pattern. 
+    Any abstraction should be motivated by a real need. 
+    An appropriate guideline is to perfer classes to interfaces.
+    </td>
+  </tr>
+  <tr>
+    <td>08</td>
+    <td>345 - 3488</td>
     <td></td>
     <td>
     </td>
