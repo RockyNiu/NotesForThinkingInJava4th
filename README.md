@@ -63,7 +63,7 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     <td>***</td>
     <td>
     Reference counting: good for mobile app to show synchronization icon. 
-    The only safe methods to call inside a constructor are thoes that are final in the base class.
+    The only safe methods to call inside a constructor are those that are final in the base class.
     Composition first: use inheritance to express differences in behavior, and fields to express variations in state.
     </td>
   </tr>
