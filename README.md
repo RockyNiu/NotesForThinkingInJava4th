@@ -79,7 +79,7 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
   <tr>
     <td>08</td>
     <td>345 - 388</td>
-    <td></td>
+    <td>****</td>
     <td>
     </td>
   </tr>
