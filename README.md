@@ -4,7 +4,7 @@ Notes for Thinking In Java(4th) by Bruce Eckel
 Not every Java Developer, especially who is switching or switched from other fields/professions, have read the book Thinking In Java words by words. However, I bet, the best ones do.
 
 Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
-
+* Inner Classes took me three days.
 <table>
   <tr>
     <th>Day</th>
@@ -82,8 +82,14 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     <td>****</td>
     <td>Anonymous inner class: requires the agument reference, which is object and outside, be final; can either extend a class or implement an interface, but not both.
     Nested class: static.
-    Template Method design pattern
-    
+    Template Method design pattern.
+    </td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>389 - 442</td>
+    <td></td>
+    <td>
     </td>
   </tr>
 </table>
