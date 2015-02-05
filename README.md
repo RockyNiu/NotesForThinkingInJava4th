@@ -4,7 +4,7 @@ Notes for Thinking In Java(4th) by Bruce Eckel
 Not every Java Developer, especially who is switching or switched from other fields/professions, have read the book Thinking In Java words by words. However, I bet, the best ones do.
 
 Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
-*** Inner Classes took me three days.
+* Inner Classes took me three days.
 
 <table>
   <tr>
