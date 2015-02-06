@@ -87,10 +87,10 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     </td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>11-12</td>
     <td>389 - 442</td>
-    <td></td>
-    <td>
+    <td>**</td>
+    <td>Stack: not good in Java. Queue: concurrency.
     </td>
   </tr>
 </table>
