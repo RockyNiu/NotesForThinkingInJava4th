@@ -90,7 +90,14 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     <td>11-12</td>
     <td>389 - 442</td>
     <td>**</td>
-    <td>Stack: not good in Java. Queue: concurrency.
+    <td>Stack: not good in Java. Queue: concurrency. Iterable: foreach. Adapter Method. Pay attention to Arrays.asList().
+    </td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>443 - 502</td>
+    <td></td>
+    <td>
     </td>
   </tr>
 </table>
