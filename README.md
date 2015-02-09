@@ -94,8 +94,15 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks.
     </td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>13-15</td>
     <td>443 - 502</td>
+    <td></td>
+    <td>RuntimeException: cannot be anticipated, or have been checked. Finally: return; lost exception pitfall. Exception Guidelines at p500.
+    </td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>503 - 552</td>
     <td></td>
     <td>
     </td>
