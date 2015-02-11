@@ -100,10 +100,18 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     </td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>16-17</td>
     <td>503 - 552</td>
+    <td>****</td>
+    <td>javap -c. CharSequence: CharBuffer, String, StringBuffer, StringBuilder. Regular expression (refer to "Mastering Regular Expressions"): Scanners, exmaples in p542 and p550.
+    </td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>553 - 616</td>
     <td></td>
     <td>
     </td>
   </tr>
+</table>
 </table>
