@@ -107,10 +107,17 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     </td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>18-20</td>
     <td>553 - 616</td>
+    <td>****</td>
+    <td>RTTI: Runtime Type Inforamtion; Loading->Linking->Initialization; Class.forName(): init vs *.class: not init (except constant); instanceof, isInstance, isAssignableFrom, derived; ?? InvocationHandler, Proxy.newProxyInstance, Null Object; Field setAccessbile(true): by reflection, touch every things.
+    </td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>617-746</td>
     <td></td>
-    <td>RTTI: Runtime Type Inforamtion; Loading->Linking->Initialization; Class.forName(): init vs *.class: not init (except constant); instanceof, isInstance, isAssignableFrom, derived; InvocationHandler, Proxy.newProxyInstance; 
+    <td>
     </td>
   </tr>
 </table>
