@@ -110,7 +110,7 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     <td>18</td>
     <td>553 - 616</td>
     <td></td>
-    <td>RTTI: Runtime Type Inforamtion; Loading->Linking->Initialization; Class.forName(): init vs *.class: not init (except constant); 
+    <td>RTTI: Runtime Type Inforamtion; Loading->Linking->Initialization; Class.forName(): init vs *.class: not init (except constant); instanceof, isInstance, isAssignableFrom, derived; InvocationHandler, Proxy.newProxyInstance; 
     </td>
   </tr>
 </table>
