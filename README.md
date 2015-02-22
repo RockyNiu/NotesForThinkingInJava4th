@@ -114,7 +114,14 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     </td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>21-27</td>
+    <td>Break</td>
+    <td></td>
+    <td>Happy Chinese New Year!
+    </td>
+  </tr>
+  <tr>
+    <td>28</td>
     <td>617-746</td>
     <td></td>
     <td>
