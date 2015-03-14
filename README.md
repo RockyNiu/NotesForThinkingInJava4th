@@ -127,5 +127,12 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     <td>
     </td>
   </tr>
+    <tr>
+    <td>28-35</td>
+    <td>1109-1302</td>
+    <td>Functional language, task safe; executor; CachedThreadPool, FixedThreadPool, SingleThreadExecutor, Callable, Executor, Service.submit();TimeUnit.milliSecond.sleep(),Set priority in run, yield is an hint; deamon, threadmethod, t.join(), t.getUncaughtExceptionHandler, t.getDefaultUncaghtException;Race Condition, Mutex; Increment is not save, synchronized method need private field; Atomicity, Volatility;</td>
+    <td>
+    </td>
+  </tr>
 </table>
 </table>
