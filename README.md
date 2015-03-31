@@ -128,10 +128,10 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     </td>
   </tr>
     <tr>
-    <td>28-42</td>
+    <td>28-49</td>
     <td>1109-1302</td>
     <td>*****</td>
-    <td>Functional language, task safe; executor; CachedThreadPool, FixedThreadPool, SingleThreadExecutor, Callable, Executor, Service.submit(); TimeUnit.milliSecond.sleep(), Set priority in run, yield is an hint; deamon, threadmethod, t.join(), t.getUncaughtExceptionHandler, t.getDefaultUncaghtException;Race Condition, Mutex; Increment is not save, synchronized method need private field; Atomicity, Volatility;</td>
+    <td>Functional language, task safe; executor; CachedThreadPool, FixedThreadPool, SingleThreadExecutor, Callable, Executor, Service.submit(); TimeUnit.milliSecond.sleep(), Set priority in run, yield is an hint; deamon, threadmethod, t.join(), t.getUncaughtExceptionHandler, t.getDefaultUncaghtException;Race Condition, Mutex; Increment is not safe, synchronized method need private field; Atomicity, Volatility; AtomicInteger, AtomicLong, AtomicReference; Critical Section, Synchronized block to allow other tasks more access, Collections.SynchronizedList; instanceOf, isInstance, isAssignableFrom, derived InvocationHandler; Thread local storage, new Runnable blocked dead, interrupt interrupted, shutDownNow cancel, Execute shutdownnow, nio for io; </td>
   </tr>
 </table>
 </table>
