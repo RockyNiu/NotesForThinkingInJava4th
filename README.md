@@ -121,10 +121,10 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     </td>
   </tr>
   <tr>
-    <td>28</td>
+    <td>59</td>
     <td>617-746</td>
-    <td></td>
-    <td>
+    <td>***</td>
+    <td>Tuple, Data Transfer Object(Messenger, p621), the recipient of the object is allowed to read the elements but not put new ones in; Generic Interfaces: Generator<T>; Generic Method: type argument inference, Explicit type specification when not an assignment statment;
     </td>
   </tr>
     <tr>
