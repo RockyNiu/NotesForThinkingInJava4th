@@ -121,10 +121,10 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     </td>
   </tr>
   <tr>
-    <td>59</td>
+    <td>59-64</td>
     <td>617-746</td>
-    <td>***</td>
-    <td>Tuple, Data Transfer Object(Messenger, p621), the recipient of the object is allowed to read the elements but not put new ones in; Generic Interfaces: Generator<T>; Generic Method: type argument inference, Explicit type specification when not an assignment statment;
+    <td>****</td>
+    <td>Tuple, Data Transfer Object(Messenger, p621), the recipient of the object is allowed to read the elements but not put new ones in; Generic Interfaces: Generator<T>; Generic Method: type argument inference, Explicit type specification when not an assignment statment; Bounds; Wildcards; <? super Clas>: supertype bounds relax the constraints on what you can pass into a method; List: "a raw List that holds any Object type", List<?>: "a non-raw List of some specific type, but we just don't know what that type is"; capture conversion; Self-bounded types: if you use self-bounding, you only end up with one version of a method, which takes the exact argument type; Curiously Recurring Generics; Dynamic type safety: Collections.checkedList()... ; 
     </td>
   </tr>
     <tr>
