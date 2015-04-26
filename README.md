@@ -124,10 +124,17 @@ Here is my plan: 25~50 pages a day (around 2~5 hours) , finish it in six weeks (
     <td>59-64</td>
     <td>617-746</td>
     <td>****</td>
-    <td>Tuple, Data Transfer Object(Messenger, p621), the recipient of the object is allowed to read the elements but not put new ones in; Generic Interfaces: Generator<T>; Generic Method: type argument inference, Explicit type specification when not an assignment statment; Erasure: there is no information about generic parameter types available inside generic code; the cause: corpoorating the packages with generified codes and those without generified codes; Array.newInstance(): creating arrays in generics anything that requires the knowledge of exact type at run time won't work; When you discover you can ignore warnings, you do; Bounds; Wildcards; <? super Clas>: supertype bounds relax the constraints on what you can pass into a method; List: "a raw List that holds any Object type", List<?>: "a non-raw List of some specific type, but we just don't know what that type is"; capture conversion; Self-bounded types: if you use self-bounding, you only end up with one version of a method, which takes the exact argument type; Curiously Recurring Generics; Dynamic type safety: Collections.checkedList()... ; Mixins with dynamic proxies; Duck typing: if it walks like a duck and talks like a duck, you might as well treat it like a duck, C+= and Python have, while Java not, Java uses several approach: relection + varargs, Adapter Pattern, Strategy Design; 
+    <td>Tuple, Data Transfer Object(Messenger, p621), the recipient of the object is allowed to read the elements but not put new ones in; Generic Interfaces: Generator<T>; Generic Method: type argument inference, Explicit type specification when not an assignment statment; Erasure: there is no information about generic parameter types available inside generic code; the cause: corpoorating the packages with generified codes and those without generified codes; Array.newInstance(): creating arrays in generics anything that requires the knowledge of exact type at run time won't work; When you discover you can ignore warnings, you do; Bounds; Wildcards; <? super Clas>: supertype bounds relax the constraints on what you can pass into a method; List: "a raw List that holds any Object type", List<?>: "a non-raw List of some specific type, but we just don't know what that type is"; capture conversion; Self-bounded types: if you use self-bounding, you only end up with one version of a method, which takes the exact argument type; Curiously Recurring Generics; Dynamic type safety: Collections.checkedList()... ; Mixins with dynamic proxies; Duck typing: if it walks like a duck and talks like a duck, you might as well treat it like a duck, C+= and Python have, while Java not, Java uses several approach: relection + varargs, Adapter Pattern, Strategy Design. 
     </td>
   </tr>
-    <tr>
+  <tr>
+    <td>65-69</td>
+    <td>747-789</td>
+    <td>**</td>
+    <td>Arrays: efficiency, type, and the ability to hold primitives; System.arraycopy().
+    </td>
+  </tr>
+  <tr>
     <td>28-58</td>
     <td>1109-1302</td>
     <td>*****</td>
